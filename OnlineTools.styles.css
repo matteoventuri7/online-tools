@@ -1,0 +1,47 @@
+/* /Pages/RegexTester.razor.rz.scp.css */
+[b-dp77fm087d] .match-0 {
+    background: rgb(198, 227, 255);
+}
+
+[b-dp77fm087d] .match-1 {
+    background: rgb(116, 196, 255);
+}
+
+.regex-options label[b-dp77fm087d] {
+    margin-right: 5px;
+}
+
+.match[b-dp77fm087d] {
+    margin-bottom: 20px;
+}
+
+.match-header[b-dp77fm087d] {
+    font-weight: bold;
+}
+
+.match-name[b-dp77fm087d] {
+    font-weight: bold;
+    vertical-align: top;
+    padding: 6px 10px;
+}
+
+.match-index[b-dp77fm087d] {
+    color: #8e8e8e;
+    vertical-align: top;
+    padding: 6px 10px;
+}
+
+.match-value[b-dp77fm087d] {
+    vertical-align: top;
+    background: rgba(0,0,0,.03);
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    padding: 6px 10px;
+}
+
+.match-highlighted[b-dp77fm087d] {
+    margin-top: 1rem;
+    display: block;
+}
